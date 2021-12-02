@@ -9,6 +9,7 @@ git clone https://github.com/aristocratos/btop.git
 cd btop
 
 # Compile
+sudo apt install make
 make
 
 # Install
