@@ -1,9 +1,10 @@
 # update
-sudo apt-get update && sudo apt-get dist-upgrade
+sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade
 
 # Use gcc-10 g++-10 if gcc-11 isn't available
 sudo apt install gcc-11 g++-11 -y
-sudo apt install coreutils sed git build-essential gcc-10 g++-10
+sudo apt install coreutils sed git build-essential gcc-11 g++-11
+sudo apt autoremove -y
 
 # Clone repository
 git clone https://github.com/aristocratos/btop.git
