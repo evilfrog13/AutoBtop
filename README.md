@@ -9,4 +9,4 @@ feedback are really welcome to make it better
 
 os that worked so far
 pop_os
-kubuntu
+kubuntu 21.10
