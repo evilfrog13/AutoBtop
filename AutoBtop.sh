@@ -2,7 +2,7 @@
 sudo apt-get update && sudo apt-get upgrade
 
 # app
-sudo apt install -y make cmake gitk
+sudo apt install -y make
 
 # Use gcc-10 g++-10 if gcc-11 isn't available
 sudo apt install -y coreutils sed git build-essential gcc-10 g++-10
