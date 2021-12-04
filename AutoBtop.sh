@@ -1,3 +1,6 @@
+# add repo
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+
 # update
 sudo apt-get update && sudo apt-get upgrade
 
@@ -5,7 +8,7 @@ sudo apt-get update && sudo apt-get upgrade
 sudo apt install -y make
 
 # Use gcc-10 g++-10 if gcc-11 isn't available
-sudo apt install -y coreutils sed git build-essential gcc-10 g++-10
+sudo apt install -y coreutils sed git build-essential gcc-11 g++-11
 sudo apt autoremove -y
 
 # Clone repository
