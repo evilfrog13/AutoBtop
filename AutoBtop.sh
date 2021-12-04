@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # add repo
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 
