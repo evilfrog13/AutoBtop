@@ -9,7 +9,7 @@ feedback are really welcome to make it better
 
 os that worked so far
 
-pop_os
+pop_os 21.04
 
 ubuntu 20.04.3 / 21.10
 
