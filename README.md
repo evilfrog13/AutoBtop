@@ -11,11 +11,9 @@ os that worked so far
 
 pop_os
 
-ubuntu 21.10
+ubuntu 20.04.3 / 21.10
 
 kubuntu 21.10
-
-ubuntu 20.04.3
 
 
 found that i needed to add a repo ubuntu-toolchain-r/test
