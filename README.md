@@ -9,6 +9,7 @@ feedback are really welcome to make it better
 
 os that worked so far
 pop_os
+ubuntu 21.10
 kubuntu 21.10
 
 
