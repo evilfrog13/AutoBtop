@@ -2,7 +2,7 @@
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 
 # update
-sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update -y && sudo apt-get upgrade -y
 
 # app
 sudo apt install -y make
